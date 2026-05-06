@@ -1,1 +1,1 @@
-This is my repo for IMC_Prosperity_4, round 5 dataset was bit too large so pls us ethe gdrive link for that, rest datasets are uploaded in the respective folders. Also this is for algorithmic round only
+This is my repo for IMC_Prosperity_4, round 5 dataset was bit too large so pls use the gdrive(https://drive.google.com/drive/folders/1RzQSY7fVHzI6ZLXzJafPZPrYtWbQ4RDK?usp=sharing) link for that, rest datasets are uploaded in the respective folders. Also this is for algorithmic round only
